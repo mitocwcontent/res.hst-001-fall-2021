@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-1bc9260ff2e3488e8887c2cba0c6b291
+  name: Little Devices Lab
+  url: https://jfgm.scripts.mit.edu/littledeviceslab/
+  weight: 1000
